@@ -403,6 +403,12 @@ header .navbar-brand {
   background-color: #f1a4a4;
   color: #fff;
 }
+
+.weddingdate-section .mini_calendar td #today .today-2 {
+  background-color: #fff;
+  color: #a9a9a9 !important;
+  border: solid 2px #f1a4a4;
+}
 .mini_calendar > .mini_calendar {
   border-bottom: 1px solid #e3e3e6;
   padding-bottom: 20px;
